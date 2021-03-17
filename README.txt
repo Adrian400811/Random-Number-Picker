@@ -1,4 +1,4 @@
-IMPORTANT: This is for unix based systems only (including MacOS and Linux. Bye Windows user.)
+IMPORTANT: Linux or Mac users can run .sh files. Windows users please run the .py file.
 
 
 First time using:
