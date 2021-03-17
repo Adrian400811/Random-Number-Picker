@@ -1,4 +1,4 @@
-IMPORTANT: Linux or Mac users can run .sh files. Windows users please run the .py file.
+IMPORTANT: Linux or Mac users can run .sh files. Windows users please install the requirements.txt and run the .py file.
 
 
 First time using:
